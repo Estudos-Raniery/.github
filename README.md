@@ -71,3 +71,12 @@ A collection of awesome READMEs that I've found on GitHub. This inspired me to c
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
 
 [<img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/btn-spotify.png" alt="Connect to spotify button">](https://spotify-github-profile.kittinanx.com/api/login)
+
+<!-- Visitantes -->
+## [Visitors Badge](https://github.com/antonkomarev/github-profile-views-counter)
+
+![Profile views badge](https://komarev.com/ghpvc/?username=Estudos-Raniery&color=blue&style=for-the-badge)
+
+```md
+![Profile views badge](https://komarev.com/ghpvc/?username=ranieeery)
+```
